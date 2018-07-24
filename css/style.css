@@ -1,0 +1,10 @@
+head { color: purple;
+    font-size: 150%;
+    border: dotted red;
+}
+
+body {
+  color: blue;
+  background-color: white;
+  font-size: 100px;
+}
